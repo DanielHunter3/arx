@@ -51,6 +51,8 @@ ARX is built as a modular Rust system:
 
 - **[arx-core](https://github.com/DanielHunter3/arx-core.git)** – Core library with dependency resolution, version management, and store operations
 - **[arx-cli](https://github.com/DanielHunter3/arx-cli.git)** – Command-line interface built on top of the core library
+- **[arx-daemon](https://github.com/DanielHunter3/arx-daemon.git)** - Daemon built on top of the core library
+- **[arx-server](https://github.com/DanielHunter3/arx-server.git)** - Server built on top of the core library
 
 ## Quick Start
 
